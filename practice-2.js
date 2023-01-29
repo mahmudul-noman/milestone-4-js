@@ -17,7 +17,7 @@ var Grade_C = 50;
 var Grade_D = 40;
 var Grade_F = 39;
 
-// ressult sheet
+// result sheet
 var Get__Result = 35;
 
 if (Grade_A <= Get__Result) {
