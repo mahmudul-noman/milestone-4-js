@@ -37,6 +37,21 @@
 // }
 
 
-var i = 0;
-for (i=0; i<5; i++){};
-console.log(i);
+// var i = 0;
+// for (i=0; i<5; i++){};
+// console.log(i);
+
+
+function movie(){
+
+    return "Din-The day";
+  
+    return "Poran";
+  
+    return "Hawa";
+  
+  }
+  
+  console.log(movie());
+  
+  
