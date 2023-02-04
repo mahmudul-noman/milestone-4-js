@@ -9,5 +9,5 @@ numbers[2] = 78;
 console.log(numbers);
 
 // 3. Find index by elements
-var Index_Position = numbers.indexOf(889);
+var Index_Position = numbers.indexOf(89);
 console.log(Index_Position);
