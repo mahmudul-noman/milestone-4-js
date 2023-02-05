@@ -29,7 +29,7 @@ const result2 = Math.ceil(2.00001);
 
 // Math.floor() :::::::::::::::::::::::::::::::::::::::::::
 const result3 = Math.floor(2.8464);
-// console.log(result3);
+console.log(result3);
 
 
 
@@ -40,9 +40,9 @@ const numberRandom = Math.round(Math.random()*6);
 
 // Math.max() ::::::::::::::::::::::::::::::::::::::::::::
 const max__Number = Math.max(78, 65, 95, 99, 45, 99.9);
-console.log('The Maximum Number is:', max__Number);
+// console.log('The Maximum Number is:', max__Number);
 
 
 // Math.min() ::::::::::::::::::::::::::::::::::::::::::::
 const min__Number = Math.min(78, 65, 95, 99, 45, 99.9);
-console.log('The Minimum Number is:', min__Number);
+// console.log('The Minimum Number is:', min__Number);

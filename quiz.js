@@ -42,16 +42,20 @@
 // console.log(i);
 
 
-function movie(){
+// function movie(){
 
-    return "Din-The day";
+//     return "Din-The day";
   
-    return "Poran";
+//     return "Poran";
   
-    return "Hawa";
+//     return "Hawa";
   
-  }
+//   }
   
-  console.log(movie());
+//   console.log(movie());
   
   
+function add(a, b){
+  return a + b;
+}
+console.log(add("adam" + "eve"))
