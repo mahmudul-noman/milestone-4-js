@@ -9,10 +9,10 @@ const num2 = 45;
 
 const gap = Math.abs(num1 - num2);
 if (gap < 5) {
-    console.log('Accepted');
+    // console.log('Accepted');
 }
 else {
-    console.log('Not Accepted');
+    // console.log('Not Accepted');
 }
 
 
@@ -40,9 +40,9 @@ const numberRandom = Math.round(Math.random()*6);
 
 // Math.max() ::::::::::::::::::::::::::::::::::::::::::::
 const max__Number = Math.max(78, 65, 95, 99, 45, 99.9);
-// console.log(max__Number);
+console.log('The Maximum Number is:', max__Number);
 
 
 // Math.min() ::::::::::::::::::::::::::::::::::::::::::::
 const min__Number = Math.min(78, 65, 95, 99, 45, 99.9);
-console.log(min__Number);
+console.log('The Minimum Number is:', min__Number);
