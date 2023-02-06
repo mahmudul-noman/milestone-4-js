@@ -55,7 +55,15 @@
 //   console.log(movie());
   
   
-function add(a, b){
-  return a + b;
+// function add(a, b){
+//   return a + b;
+// }
+// console.log(add("adam" + "eve"))
+
+
+
+let sum=0; 
+for( let i = 0; i<=3;i++){ 
+sum = sum + i; 
 }
-console.log(add("adam" + "eve"))
+console.log(sum);
